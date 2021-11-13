@@ -1,4 +1,4 @@
-Hello.
+1st Year Undergrad @ Cardiff Uni
 
 <!---
 tobynott80/tobynott80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
