@@ -1,4 +1,4 @@
-2nd Year Undergrad @ Cardiff Uni
+Applied Software Engineering Bsc @ Cardiff Uni
 
 [tobynott.com](https://tobynott.com)
 <!---
