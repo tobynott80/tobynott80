@@ -1,4 +1,4 @@
-Applied Software Engineering Bsc @ Cardiff Uni
+Bridging the gap between protected data and valuable insights @ [Pontiro](pontiro.com)
 
 [tobynott.com](https://tobynott.com)
 <!---
