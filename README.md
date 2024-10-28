@@ -1,4 +1,4 @@
-Bridging the gap between protected data and valuable insights @ [Pontiro](pontiro.com)
+Bridging the gap between protected data and valuable insights @ [Pontiro](https://pontiro.com)
 
 [tobynott.com](https://tobynott.com)
 <!---
