@@ -1,5 +1,3 @@
-Bridging the gap between protected data and valuable insights @ [Pontiro](https://pontiro.com)
-
 [tobynott.com](https://tobynott.com)
 <!---
 tobynott80/tobynott80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
